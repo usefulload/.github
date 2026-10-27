@@ -63,4 +63,4 @@ infrastructure** in the cryptocurrency sphere.
 
 ## Project 0: Useful Loads
 
-The general repo for this org is [here](https://github.com/usefulload/bitcoinmining). This is where we will stage our general conversation about useful loads.
+The general repo for this org is [here](https://github.com/usefulload/usefulload). This is where we will stage our general conversation about useful loads.
