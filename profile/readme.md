@@ -57,7 +57,7 @@ Bitcoin mining:
 resulting system produce the greatest possible public benefit while
 minimizing its external costs?**
 
-Read more [here](https://github.com/usefulload/bitcoinmining)
+Read more [here](https://github.com/usefulload/bitcoinmining) about
 **accountable alternatives for energy-intensive computing
 infrastructure** in the cryptocurrency sphere.
 
