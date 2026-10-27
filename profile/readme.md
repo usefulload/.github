@@ -57,6 +57,10 @@ Bitcoin mining:
 resulting system produce the greatest possible public benefit while
 minimizing its external costs?**
 
-Read more [here](https://github.com/usefulload/datacenters)
+Read more [here](https://github.com/usefulload/bitcoinmining)
 accountable alternatives** for energy-intensive computing
 infrastructure.
+
+## Project 0: Useful Loads
+
+The general repo for this org is [here](https://github.com/usefulload/bitcoinmining). This is where we will stage our general conversation about useful loads.
